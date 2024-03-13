@@ -1,0 +1,10 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-17-bengkulu/tree/main/pileg-dpr/hitung-suara/sub/17-bengkulu/sub/05-seluma/sub/07-lubuk-sandi/sub/2007-arang-sapat/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-17-bengkulu/tree/main/pileg-dpr/hitung-suara/sub/17-bengkulu/sub/05-seluma/sub/07-lubuk-sandi/sub/2007-arang-sapat/sub/002-tps)
+ | 
+[TPS 003](https://github.com/gigit-pemilu/pemilu-2024-17-bengkulu/tree/main/pileg-dpr/hitung-suara/sub/17-bengkulu/sub/05-seluma/sub/07-lubuk-sandi/sub/2007-arang-sapat/sub/003-tps)
+
